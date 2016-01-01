@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Navigating the panel of Xcode was difficult as the interface changed from the video that was uploaded.
+
 ## License
 
     Copyright [2015] [Justin Chavez]
